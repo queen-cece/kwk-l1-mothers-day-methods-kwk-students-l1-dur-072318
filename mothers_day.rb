@@ -1,5 +1,5 @@
 ## Define your method, mothers_day, below. Go through the README and update your method as needed!
-def mothers_day (your_name)
-puts "mothers_day #{your_name}"
+def happy_mothers_day (your_name)
+puts "happy_mothers_day #{your_name}"
 end 
-mothers_day ("Beyonce")
+happy_mothers_day ("Beyonce")
