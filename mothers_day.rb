@@ -2,4 +2,4 @@
 def mothers_day (your_name)
 puts "mothers_day #{your_name}"
 end 
-mothers_day ("Cece")
+mothers_day ("Beyonce")
